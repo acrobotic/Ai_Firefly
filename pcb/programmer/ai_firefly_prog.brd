@@ -167,10 +167,12 @@
 <wire x1="13.208" y1="13.081" x2="13.208" y2="12.192" width="0.3048" layer="22"/>
 <text x="10.795" y="4.064" size="1.524" layer="22" font="vector" ratio="15" rot="MR0">-</text>
 <text x="10.795" y="14.732" size="1.524" layer="22" font="vector" ratio="15" rot="MR0">+</text>
-<text x="14.732" y="8.763" size="1.27" layer="21" font="vector" ratio="15">PROG</text>
-<text x="15.113" y="10.414" size="1.27" layer="21" font="vector" ratio="15">TBA</text>
-<text x="18.415" y="10.414" size="1.27" layer="22" font="vector" ratio="15" rot="MR0">TBA</text>
-<text x="19.177" y="8.763" size="1.27" layer="22" font="vector" ratio="15" rot="MR0">PROG</text>
+<text x="16.129" y="8.763" size="0.889" layer="21" font="vector" ratio="15">PROG</text>
+<text x="13.843" y="10.414" size="0.889" layer="21" font="vector" ratio="15">FIREFLY</text>
+<text x="19.177" y="10.414" size="0.889" layer="22" font="vector" ratio="15" rot="MR0">FIREFLY</text>
+<text x="19.177" y="8.763" size="0.889" layer="22" font="vector" ratio="15" rot="MR0">PROG</text>
+<text x="4.572" y="16.891" size="0.889" layer="21" font="vector" ratio="15" rot="R30">v1.0</text>
+<text x="14.859" y="5.207" size="0.889" layer="22" font="vector" ratio="15" rot="MR0">Pasadena, CA</text>
 </plain>
 <libraries>
 <library name="Ai_Miscellany">
